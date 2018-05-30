@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="powermock-api-mockito-common-1.6.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/powermock-api-mockito-common-1.6.5.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/powermock-core-1.6.5.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/powermock-module-junit4-1.6.5.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/powermock-module-junit4-common-1.6.5.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/powermock-reflect-1.6.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
